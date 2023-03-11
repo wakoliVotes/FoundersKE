@@ -24,7 +24,7 @@ const setFooter = () => {
             href="/about.html"
             aria-current="page"
             class="footer-link w--current"
-            >About FoundersKE</a
+            >About Us</a
           ><a href="/evolve.html" class="footer-link"
             >Ideas Evolve</a
           ><a href="/blog.html" class="footer-link">Blogs</a
