@@ -27,7 +27,7 @@ const setFooter = () => {
             >About Us</a
           ><a href="/evolve.html" class="footer-link"
             >Ideas Evolve</a
-          ><a href="/blog.html" class="footer-link">Blogs</a
+          ><a href="https://www.acceldia.com/" target="_blank" class="footer-link">Blog</a
           >
         </div>
         <div
@@ -49,7 +49,7 @@ const setFooter = () => {
       >
         <div class="social-media-block">
           <a
-            href=""
+            href="https://www.instagram.com/wakoli_votes/"
             target="_blank"
             class="social-media-link w-inline-block"
             ><img
@@ -61,7 +61,7 @@ const setFooter = () => {
         </div>
         <div class="social-media-block">
           <a
-            href=""
+            href="https://twitter.com/wakoliVotes"
             target="_blank"
             class="social-media-link w-inline-block"
             ><img
@@ -73,7 +73,7 @@ const setFooter = () => {
         </div>
         <div class="social-media-block">
           <a
-            href=""
+            href="https://www.linkedin.com/in/votes-wakoli/"
             target="_blank"
             class="social-media-link w-inline-block"
             ><img
@@ -83,6 +83,18 @@ const setFooter = () => {
               class="social-media-icon"
           /></a>
         </div>
+        <div class="social-media-block">
+        <a
+          href="https://github.com/FoundersKE"
+          target="_blank"
+          class="social-media-link w-inline-block"
+          ><img
+            src="/images/icons-github.svg"
+            loading="lazy"
+            alt=""
+            class="social-media-icon"
+        /></a>
+      </div>
       </div>
       <br />
       <div

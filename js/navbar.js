@@ -32,7 +32,7 @@ const createNavbar = () => {
               <a href="/sponsors.html" class="nav-link w-nav-link"
                 >Our Sponsors</a
               >
-              <a href="/blog.html" class="nav-link w-nav-link">Blogs</a
+              <a href="https://www.acceldia.com/" target="_blank" class="nav-link w-nav-link">Blog</a
               >
             </div>
           </div>
@@ -55,7 +55,6 @@ const createNavbar = () => {
     </div>
   </div>
     `
-
 }
 
 createNavbar()
