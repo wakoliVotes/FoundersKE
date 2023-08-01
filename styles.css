@@ -3054,6 +3054,9 @@ ul {
   -o-object-fit: contain;
   object-fit: contain;
 }
+.gh {
+  border-radius: 2px;
+}
 
 .popular-article-btn {
   margin-right: auto;

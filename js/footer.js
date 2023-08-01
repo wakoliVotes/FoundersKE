@@ -92,7 +92,7 @@ const setFooter = () => {
             src="/images/icons-github.svg"
             loading="lazy"
             alt=""
-            class="social-media-icon"
+            class="social-media-icon gh"
         /></a>
       </div>
       </div>
