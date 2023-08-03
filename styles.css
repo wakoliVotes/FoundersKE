@@ -4227,8 +4227,11 @@ ul {
 
 .legacy-link {
   color: #ff2504;
-  text-decoration: underline;
+  text-decoration: none;
   font-weight: 500;
+}
+.legacy-link:hover {
+  text-decoration: underline blue;
 }
 
 .legacy-list {
