@@ -57,7 +57,7 @@ const createNavbar = () => {
     `
 }
 
-createNavbar()
+createNavbar();
 
 
 const setFooter = () => {
