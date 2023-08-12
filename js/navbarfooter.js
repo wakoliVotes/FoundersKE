@@ -1,7 +1,6 @@
 const createNavbar = () => {
     const navbar = document.querySelector('.navbar')
     navbar.innerHTML = `
-
     <div class="page-padding">
     <div class="container-v1 w-container">
       <div class="navbar-container">
