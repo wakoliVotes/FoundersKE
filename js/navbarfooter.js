@@ -1,6 +1,6 @@
 const createNavbar = () => {
-    const navbar = document.querySelector('.navbar')
-    navbar.innerHTML = `
+  const navbar = document.querySelector(".navbar");
+  navbar.innerHTML = `
     <div class="page-padding">
     <div class="container-v1 w-container">
       <div class="navbar-container">
@@ -53,14 +53,13 @@ const createNavbar = () => {
       </div>
     </div>
   </div>
-    `
-}
+    `;
+};
 
 createNavbar();
 
-
 const setFooter = () => {
-  const footer = document.querySelector('footer');
+  const footer = document.querySelector("footer");
   footer.innerHTML = `
   <div class="page-padding">
   <div class="container-v1">
@@ -110,9 +109,10 @@ const setFooter = () => {
         <a href="https://anchormiles.com" target="_blank" class="footer-link"
           >Website Design Services</a
         >
-        <a href="/privacy-policy.html" class="footer-link"
+        <a href="https://anchormiles.com" target="_blank" class="footer-link"
           >Mobile App Development</a>
-          <a href="https://anchormiles.com" target="_blank" class="footer-link">Graphic Design Services</a>
+          <a href="https://anchormiles.com" target="_blank" class="footer-link"
+          >Graphic Design Services</a>
       </div>
       </div>
       
@@ -184,7 +184,7 @@ const setFooter = () => {
     </div>
   </div>
 </div>
-  `  
-}
+  `;
+};
 // call setFooter function in the main.js file
 setFooter();
