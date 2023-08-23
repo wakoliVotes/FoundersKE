@@ -107,7 +107,7 @@ const setFooter = () => {
         id="w-node-_8db7c0c9-76ad-b8a3-7d76-c0f0ef19c283-ef19c26b"
         class="footer-links-block"
       >
-        <a href="/terms-of-use.html" class="footer-link"
+        <a href="https://anchormiles.com" target="_blank" class="footer-link"
           >Website Design Services</a
         >
         <a href="/privacy-policy.html" class="footer-link"
