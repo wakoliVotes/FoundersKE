@@ -179,7 +179,7 @@ const setFooter = () => {
         <br />
         Designed by: <a href="https://anchormiles.com" target="_blank" class="w-inline-block"
         style="color: red; text-decoration: none; font-weight: bold;"
-          >AnchorMiles</a>
+          >AnchorMiles</a> | Powered by: <strong>Vercel</strong>
       </div>
     </div>
   </div>
