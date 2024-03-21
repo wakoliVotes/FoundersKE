@@ -58,6 +58,8 @@ const createNavbar = () => {
 
 createNavbar();
 
+// TODO - Here : BUYMECOFFEE FUNCTION
+
 const setFooter = () => {
   const footer = document.querySelector("footer");
   footer.innerHTML = `
@@ -179,7 +181,7 @@ const setFooter = () => {
         <br />
         Designed by: <a href="https://anchormiles.com" target="_blank" class="w-inline-block"
         style="color: red; text-decoration: none; font-weight: bold;"
-          >AnchorMiles</a> | Powered by: <strong>Vercel</strong>
+          >AnchorMiles</a> | Powered by: <strong style="color: red;" >Vercel</strong>
       </div>
     </div>
   </div>
