@@ -2952,7 +2952,8 @@ ul {
   border-radius: 50%;
   -o-object-fit: contain;
   object-fit: contain;
-  border: solid rgb(255, 255, 255);
+  /* TODO - Footer border + bg */
+  /* border: solid rgb(255, 255, 255); */
 }
 
 .footer-links-grid {
