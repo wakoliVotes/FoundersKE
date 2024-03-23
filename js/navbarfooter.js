@@ -170,6 +170,18 @@ const setFooter = () => {
             class="social-media-icon gh"
         /></a>
       </div>
+      <div class="social-media-block">
+      <a
+        href="https://www.linkedin.com/in/votes-wakoli/"
+        target="_blank"
+        class="social-media-link w-inline-block"
+        ><img
+          src="/images/tiktok.png"
+          loading="lazy"
+          alt=""
+          class="social-media-icon"
+      /></a>
+    </div>
       </div>
       <br />
       <div
