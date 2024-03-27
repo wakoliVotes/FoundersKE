@@ -20,4 +20,5 @@
 - We value sponsors to help us grow and reach more people in line with our *Vision* and *Mission*.
   If you are interested in sponsoring us, please reach out to us at our Email: [getintouchdesk@gmail.com](mailto:getintouchdesk@gmail.com)
 - You can learn more and engage with other sponsors in our [Sponsors](https://founderske.vercel.app/sponsors) page.
+- Support the team @[Buymecoffee]()
 
