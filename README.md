@@ -24,12 +24,12 @@
 
 ## Connect With Us
 
-[GitHub]()
+[GitHub](https://github.com/FoundersKE)
 
-[Instagram]()
+<!-- [Instagram]() -->
 
-[Twitter/X]()
+<!-- [Twitter/X]() -->
 
-[TikTok]()
+[TikTok](https://www.tiktok.com/@founderske)
 
-[LinkedIn]()
+<!-- [LinkedIn]() -->
