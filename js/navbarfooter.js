@@ -89,6 +89,7 @@ const setFooter = () => {
             >About Us</a
           ><a href="/evolve.html" class="footer-link"
             >Ideas Evolve</a
+          ><a href="/courses.html" class="footer-link">Our Courses | Learn</a
           ><a href="https://www.acceldia.com/" target="_blank" class="footer-link">Blog</a
           >
         </div>
