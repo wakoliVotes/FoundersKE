@@ -25,8 +25,9 @@
 ## Connect With Us
 
 [GitHub](https://github.com/FoundersKE)
+[Facebook](https://www.facebook.com/AnchorMilesSoftware/)
 
-<!-- [Instagram]() -->
+<!-- [Instagram](https://www.instagram.com/@founderske) -->
 
 <!-- [Twitter/X]() -->
 
