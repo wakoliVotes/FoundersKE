@@ -149,7 +149,7 @@ const setFooter = () => {
         </div>
         <div class="social-media-block">
           <a
-            href="https://www.linkedin.com/in/votes-wakoli/"
+            href="https://www.linkedin.com/company/thefounderske"
             target="_blank"
             class="social-media-link w-inline-block"
             ><img
@@ -173,7 +173,7 @@ const setFooter = () => {
       </div>
       <div class="social-media-block">
       <a
-        href="https://www.linkedin.com/in/votes-wakoli/"
+        href="https://www.tiktok.com/@founderske"
         target="_blank"
         class="social-media-link w-inline-block"
         ><img
