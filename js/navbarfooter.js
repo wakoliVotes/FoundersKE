@@ -31,7 +31,7 @@ const createNavbar = () => {
               <a href="/sponsors.html" class="nav-link w-nav-link"
                 >Our Sponsors</a
               >
-              <a href="https://www.acceldia.com/" target="_blank" class="nav-link w-nav-link">Blog</a
+              <a href="https://medium.com/@acceldia" target="_blank" class="nav-link w-nav-link">Blog</a
               >
             </div>
           </div>
@@ -90,7 +90,7 @@ const setFooter = () => {
           ><a href="/evolve.html" class="footer-link"
             >Ideas Evolve</a
           ><a href="/courses.html" class="footer-link">Our Courses | Learn</a
-          ><a href="https://www.acceldia.com/" target="_blank" class="footer-link">Blog</a
+          ><a href="https://medium.com/@acceldia" target="_blank" class="footer-link">Blog</a
           >
         </div>
         <div
