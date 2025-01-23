@@ -60,8 +60,16 @@ createNavbar();
 
 // TODO - Here : BUYMECOFFEE FUNCTION
 
+// add function for getfullyear
+const dateFunction = () => {
+  const date = new Date();
+  const year = date.getFullYear();
+  return year;
+};
+
 const setFooter = () => {
   const footer = document.querySelector("footer");
+  const currentYear = dateFunction();
   footer.innerHTML = `
   <div class="page-padding">
   <div class="container-v1">
@@ -189,7 +197,9 @@ const setFooter = () => {
         id="w-node-_8db7c0c9-76ad-b8a3-7d76-c0f0ef19c2a8-ef19c26b"
         class="text-s"
       >
-        © 2025 FoundersKE. All rights reserved.
+        © 
+        ${currentYear}
+        FoundersKE. All rights reserved.
         <br />
         <br />
         Designed by: <a href="https://anchormiles.com" target="_blank" class="w-inline-block"
