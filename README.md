@@ -26,7 +26,7 @@
 
 [GitHub](https://github.com/FoundersKE)
 
-[Facebook](https://www.facebook.com/AnchorMilesSoftware/)
+<!-- [Facebook](https://www.facebook.com/AnchorMilesSoftware/) -->
 
 <!-- [Instagram](https://www.instagram.com/@founderske) -->
 
