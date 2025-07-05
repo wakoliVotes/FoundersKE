@@ -15,7 +15,21 @@
 
 - Visit [Our Home Page](https://founderske.vercel.app/) to learn more.
 
+## Expand Your Skills - Learn
+
+| 💼 Course/Learn                       | 📝 Description                                                                  |
+|:------------------------------------:| :------------------------------------------------------------------------------:|
+| 🚀 Start-Up Essentials                | Turn your idea into a thriving business with simple tools and smart strategy.  |
+| 💻 Digital Skills for Entrepreneurs   | Master online tools to grow, market, and manage your business with confidence. |
+| 📊 Business & Financial Literacy      | Learn to budget, plan, and fund your business like a pro.                      |
+| 🛠️ Hands-On Projects & Incubator Labs | Build real products, test ideas fast, and pitch your start-up with impact.     |
+| 🤝 Mentorship & Soft Skills           | Develop leadership, personal brand, and entrepreneurial mindset.               |
+| 💻 Website Design for Beginners       | Build beautiful, functional websites; no coding skills needed.                  |
+| 🎨 Graphic Design Basics              | Learn to design eye-catching visuals for business and branding.                |
+
+Visit our [Learn/Courses](http://founderske.vercel.app/courses) page to start your journey.
 ## Sponsorship
+
 
 - We value sponsors to help us grow and reach more people in line with our *Vision* and *Mission*.
   If you are interested in sponsoring us, please reach out to us at our Email: [getintouchdesk@gmail.com](mailto:getintouchdesk@gmail.com)
