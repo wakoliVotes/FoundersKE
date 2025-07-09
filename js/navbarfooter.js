@@ -117,12 +117,12 @@ const setFooter = () => {
         id="w-node-_8db7c0c9-76ad-b8a3-7d76-c0f0ef19c283-ef19c26b"
         class="footer-links-block"
       >
-        <a href="https://anchormiles.com" target="_blank" class="footer-link"
+        <a href="https://anchormiles.vercel.app/" target="_blank" class="footer-link"
           >Website Design Services</a
         >
-        <a href="https://anchormiles.com" target="_blank" class="footer-link"
+        <a href="https://anchormiles.vercel.app/" target="_blank" class="footer-link"
           >Mobile App Development</a>
-          <a href="https://anchormiles.com" target="_blank" class="footer-link"
+          <a href="https://anchormiles.vercel.app/" target="_blank" class="footer-link"
           >Graphic Design Services</a>
       </div>
       </div>
@@ -202,7 +202,7 @@ const setFooter = () => {
         FoundersKE. All rights reserved.
         <br />
         <br />
-        Designed by: <a href="https://anchormiles.com" target="_blank" class="w-inline-block"
+        Designed by: <a href="https://anchormiles.vercel.app/" target="_blank" class="w-inline-block"
         style="color: red; text-decoration: none; font-weight: bold;"
           >AnchorMiles</a> | Powered by: <strong style="color: red;" >Vercel</strong>
       </div>
