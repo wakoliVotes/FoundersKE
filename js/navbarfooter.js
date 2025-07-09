@@ -111,6 +111,7 @@ const setFooter = () => {
           <a href="/privacy-policy.html" class="footer-link"
             >Privacy Policy</a>
             <a href="/contact.html" class="footer-link">Contact</a>
+            <a href="/donate.html" class="footer-link">Donate</a>
         </div>
         <!- Services - AnchorMiles-->
         <div
